@@ -4,9 +4,6 @@ from rest_framework.parsers import JSONParser
 from snippets.models import Snippet
 from snippets.serializers import SnippetSerializer
 
-"""
-generic class-based views
-"""
 
 
 from snippets.models import Snippet
